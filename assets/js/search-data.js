@@ -448,8 +448,14 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/profile/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-presented-in-the-er-symposium-in-the-esj72-conference",
+          title: 'I presented in the ER symposium in the ESJ72 conference.',
+          description: "",
+          section: "News",},{id: "news-our-research-article-on-mapping-the-northern-pika-distribution-was-published-in-frontiers-of-biogeography",
+          title: 'Our research article on mapping the northern pika distribution was published in Frontiers...',
+          description: "",
+          section: "News",},{id: "news-starting-my-time-in-umeå-university-as-a-jsps-fellowship",
+          title: 'Starting my time in Umeå University as a JSPS Fellowship!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
