@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wisdomskym.github.io/sitemap.xml
+Sitemap: https://wisdomskym.github.io/profile//sitemap.xml
